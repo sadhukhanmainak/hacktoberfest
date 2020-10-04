@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Mainak Sadhukhan](https://github.com/sadhukhanmainak)
+- Place: Bangalore, India
+- Bio: Ethical Hacker & Penetration Tester
+- Github: [Mainak Sadhukhan](https://github.com/sadhukhanmainak)
